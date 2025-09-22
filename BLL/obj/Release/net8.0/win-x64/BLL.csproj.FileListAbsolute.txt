@@ -1,0 +1,17 @@
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\bin\Release\net8.0\win-x64\BLL.deps.json
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\bin\Release\net8.0\win-x64\BLL.dll
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\bin\Release\net8.0\win-x64\BLL.pdb
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\bin\Release\net8.0\win-x64\DAL.dll
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\bin\Release\net8.0\win-x64\Model.dll
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\bin\Release\net8.0\win-x64\DAL.pdb
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\bin\Release\net8.0\win-x64\Model.pdb
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.csproj.AssemblyReference.cache
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.AssemblyInfoInputs.cache
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.AssemblyInfo.cs
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.csproj.Up2Date
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.dll
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\refint\BLL.dll
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\BLL.pdb
+C:\Users\ntn191103\source\repos\WorkerService2\BLL\obj\Release\net8.0\win-x64\ref\BLL.dll

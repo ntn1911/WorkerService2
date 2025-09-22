@@ -1,0 +1,11 @@
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\bin\Release\net8.0\win-x64\Model.deps.json
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\bin\Release\net8.0\win-x64\Model.dll
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\bin\Release\net8.0\win-x64\Model.pdb
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\Model.AssemblyInfoInputs.cache
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\Model.AssemblyInfo.cs
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\Model.csproj.CoreCompileInputs.cache
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\Model.dll
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\refint\Model.dll
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\Model.pdb
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\obj\Release\net8.0\win-x64\ref\Model.dll

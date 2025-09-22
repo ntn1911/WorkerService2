@@ -1,0 +1,3 @@
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\bin\Release\net8.0\win-x64\publish\Model.dll
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\bin\Release\net8.0\win-x64\publish\Model.deps.json
+C:\Users\ntn191103\source\repos\WorkerService2\MODEL\bin\Release\net8.0\win-x64\publish\Model.pdb
